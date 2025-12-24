@@ -1,2 +1,2 @@
 # encryption-tool
-A tool to encrypt files securely
+A tool to encrypt and decrypt files securely
